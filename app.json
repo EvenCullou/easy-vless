@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/easy-vless",
-  "repository": "https://github.com/DaoChen6/easy-vless",
+  "website": "https://github.com/EvenCullou/easy-vless",
+  "repository": "https://github.com/EvenCullou/easy-vless",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
