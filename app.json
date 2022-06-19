@@ -1,8 +1,8 @@
 {
-  "name": "easy-vless",
-  "description": "将v2ray部署在Heroku上",
+  "name": "easy-vle",
+  "description": "部署在Heroku上的工具",
   "keywords": [
-    "v2ray VMess VLESS"
+    "2ray VMe VLE"
   ],
   "env": {
     "PROTOCOL": {
